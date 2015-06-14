@@ -186,7 +186,6 @@ $(document).ready(function () {
                 window.location.href = "index.html";
             }else{
                 alert("Ha cancelado la operación");
-                window.location.href = "index.html";
             }
         }
     });
