@@ -1,5 +1,5 @@
 body {
-  background: white;
+  background: #FFE5B7;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333;
   margin-left: 2%;
@@ -33,4 +33,24 @@ body {
 
 .required, .error{
   color:red;
+}
+
+.container{
+  width: 63%;
+}
+ .well{
+  background-color: #D1FBF5;
+  border-radius: 20px;
+
+ }
+.btn {
+  background-color: #00927E;
+    margin-left: 85%;
+}
+legend{
+  background-color: #00927E;
+  border-radius: 10px;
+}
+.btn{
+
 }
